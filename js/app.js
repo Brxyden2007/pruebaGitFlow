@@ -1,0 +1,3 @@
+class GameCards extends HTMLAllCollection {
+    
+}
